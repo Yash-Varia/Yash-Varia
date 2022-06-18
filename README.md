@@ -1,9 +1,9 @@
-Hello, Myself Yash Varia.
+My name is Yash Varia.
 
 I'm primarily interested in Game Development and programming.
 Along with Game development, I am proficient in 3d modeling, Animations and Design.
 
-Currently persuing job as a Unity Game Developer.
+I am persuing job as a Unity Game Developer.
 Currently Worked on several Personal Game projects.
 
 Acadamic Details:-
