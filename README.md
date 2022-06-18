@@ -7,7 +7,7 @@ I am persuing job as a Unity Game Developer.
 Currently Worked on several Personal Game projects.
 
 Acadamic Details:-
-I obtained my diploma in Computerengineering from KJ Somaiya Polytechnic in 2019.
+I obtained my diploma in Computer Engineering from KJ Somaiya Polytechnic in 2019.
 Graduated from Shah and Anchor Engineering college in IT department in 2022.
 
 <!---
