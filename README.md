@@ -1,13 +1,16 @@
+Hello Everyone!
 My name is Yash Varia.
+
+A little about myself:
 
 Primarily interested in Game Development and programming.
 I am proficient in 3d modeling, Animations and Design.
-
 I am persuing job as a Unity Game Developer.
 Currently Worked on several Personal Game projects.
 
-Acadamic Details:-
-I obtained my diploma in Computer Engineering from KJ Somaiya Polytechnic in 2019.
+Acadamic Details:
+
+Diploma in Computer Engineering from KJ Somaiya Polytechnic in 2019.
 Graduated from Shah and Anchor Engineering college in IT department in 2022.
 
 <!---
